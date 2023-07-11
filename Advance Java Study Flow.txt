@@ -1,0 +1,41 @@
+
+
+1)  Servlet --> Java Program which runs into the Web Server (Tomcat) 
+Servlet --> HttpServlet 
+Html --> Embedded html into the Java code  --> out.println("<html>")  80% Java Code + 20% HTML
+
+2) JSP --> Java Server Page --> HTML 80% + Java Code 20% 
+3) Servlet[Java Backend] and JSP[UI] Combination WEb APP
+
+NOTE: Common --> MYSQL CONNECTION --> JDBC Connection --> DB Relation and Java Object MApping 
+manually --> 
+--------------------------------------------------------------------------
+Hibernate --> ORM Object Relational Mapping --> 
+Java Code --> Data Table create automatically under certain protocols
+XML Based
+Annotations
+
+--------------
+Spring framework --> web app/ Rest API  --> it is providing lots of facilities
+can connect with any other framework easily -- Hibernate  
+
+MVC --> Model [Java Object ] + View [UI-> html, jsp , thymleaf]+ Controller[request mapping]
+
+Hibernate --> Standalone application --> convert to Web Application 
+
+Spring MVC + Hibernate
+
+XML based - authentication-servlet.xml, web-servlet
+Annotations based
+
+
+
+To get rid off from XML based Configuration in Spring MVC 
+we come up with Spring Boot--
+
+
+
+4) Spring Boot - Enhanced version of Spring MVC 
+MVC -- Design pattern 
+
+       controller --> services ---> dao ---> 
